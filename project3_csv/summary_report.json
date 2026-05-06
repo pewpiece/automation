@@ -1,0 +1,23 @@
+{
+    "generated_on": "2026-05-04",
+    "total_orders": 120,
+    "total_revenue": 206197927.36,
+    "total_profit": 80390863.82,
+    "best_month": "sales_march.csv",
+    "revenue_by_month": {
+        "sales_april.csv": 33701763.98,
+        "sales_february.csv": 25446565.27,
+        "sales_january.csv": 31602753.26,
+        "sales_june.csv": 33369971.78,
+        "sales_march.csv": 42642560.61,
+        "sales_may.csv": 39434312.46
+    },
+    "revenue_by_region": {
+        "Asia": 28287373.49,
+        "Central America and the Caribbean": 48791964.34,
+        "Europe": 40327040.08,
+        "Middle East and North Africa": 19489982.36,
+        "North America": 30106159.44,
+        "Sub-Saharan Africa": 39195407.65
+    }
+}

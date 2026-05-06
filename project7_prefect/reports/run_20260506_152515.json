@@ -1,0 +1,8 @@
+{
+  "run_timestamp": "2026-05-06 15:25:15",
+  "countries_fetched": 250,
+  "model_r2": 0.932,
+  "model_mae": 241521.73,
+  "model_trained_on": "2026-05-06 15:25:15",
+  "status": "success"
+}

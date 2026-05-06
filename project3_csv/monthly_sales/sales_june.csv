@@ -1,0 +1,21 @@
+Region,Country,Item Type,Sales Channel,Order Priority,Order Date,Units Sold,Unit Price,Total Revenue,Total Profit
+Europe,France,Snacks,Offline,C,2024-06-16,8265,653.19,5398615.35,2608929.9
+Asia,Vietnam,Personal Care,Online,H,2024-06-09,9131,105.53,963594.43,504670.37
+Sub-Saharan Africa,Kenya,Snacks,Offline,M,2024-06-15,8418,190.69,1605228.42,961503.96
+Middle East and North Africa,Morocco,Cereal,Offline,L,2024-06-28,5754,236.05,1358231.7,400478.4
+Asia,India,Cereal,Online,L,2024-06-24,9468,271.16,2567342.88,661339.8
+Sub-Saharan Africa,Nigeria,Office Supplies,Offline,H,2024-06-05,6425,691.95,4445778.75,1258336.25
+Middle East and North Africa,Egypt,Personal Care,Offline,H,2024-06-24,1744,612.56,1068304.64,452829.6
+Asia,Vietnam,Snacks,Offline,C,2024-06-21,2629,57.01,149879.29,43063.02
+Europe,Denmark,Household,Online,H,2024-06-08,8842,269.11,2379470.62,1126293.96
+Central America and the Caribbean,Grenada,Baby Food,Online,C,2024-06-06,3827,524.0,2005348.0,855104.88
+Central America and the Caribbean,Grenada,Snacks,Offline,L,2024-06-14,574,36.96,21215.04,5975.34
+Asia,India,Office Supplies,Online,M,2024-06-03,8802,291.38,2564726.76,839358.72
+Middle East and North Africa,Morocco,Clothes,Offline,L,2024-06-15,4045,350.88,1419309.6,520510.6
+North America,Mexico,Snacks,Online,H,2024-06-15,253,629.74,159324.22,65944.45
+North America,Mexico,Snacks,Offline,L,2024-06-07,5001,449.06,2245749.06,966293.22
+Sub-Saharan Africa,Nigeria,Snacks,Offline,H,2024-06-27,1847,169.86,313731.42,116471.82
+Central America and the Caribbean,Cuba,Cosmetics,Offline,L,2024-06-25,4597,10.63,48866.11,12411.9
+Asia,Thailand,Snacks,Online,H,2024-06-29,5872,157.21,923137.12,483676.64
+Central America and the Caribbean,Panama,Fruits,Online,H,2024-06-30,5161,553.08,2854445.88,1674589.67
+North America,Canada,Personal Care,Offline,L,2024-06-27,6907,127.07,877672.49,480174.64

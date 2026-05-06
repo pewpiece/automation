@@ -1,0 +1,16 @@
+{
+  "trained_on": "2026-05-06 15:28:40",
+  "features": [
+    "units_sold",
+    "unit_price",
+    "item_type_encoded",
+    "sales_channel_encoded",
+    "order_priority_encoded",
+    "order_month"
+  ],
+  "target": "total_revenue",
+  "mae": 241521.73,
+  "r2_score": 0.932,
+  "train_rows": 100,
+  "test_rows": 25
+}

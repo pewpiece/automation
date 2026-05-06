@@ -1,0 +1,47 @@
+{
+    "file": "messy_sales.csv",
+    "cleaned_on": "2026-05-05",
+    "original_shape": {
+        "rows": 125,
+        "cols": 11
+    },
+    "issues_found": {
+        "null_counts": {
+            "item type": 7,
+            "Units Sold": 6,
+            " Unit Price": 6,
+            "Notes": 125
+        },
+        "duplicate_rows": 0,
+        "empty_columns": [
+            "Notes"
+        ],
+        "messy_col_names": [
+            "Region ",
+            "Country",
+            "item type",
+            "Sales Channel",
+            "Order Priority",
+            "Order Date",
+            "Units Sold",
+            " Unit Price",
+            "Total Revenue",
+            "Total Profit",
+            "Notes"
+        ]
+    },
+    "fixes_applied": [
+        "Standardized column names",
+        "Dropped empty columns: ['notes']",
+        "Filled 6 nulls in 'units_sold' with median (5818.00)",
+        "Filled 6 nulls in 'unit_price' with median (309.49)",
+        "Cleaned numeric columns",
+        "Filled 7 nulls in 'item_type' with 'Unknown'",
+        "Standardized text columns",
+        "Added derived column: profit_margin_%"
+    ],
+    "final_shape": {
+        "rows": 125,
+        "cols": 11
+    }
+}

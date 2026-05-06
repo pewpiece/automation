@@ -1,0 +1,21 @@
+Region,Country,Item Type,Sales Channel,Order Priority,Order Date,Units Sold,Unit Price,Total Revenue,Total Profit
+Europe,France,Cosmetics,Offline,C,2024-04-01,6983,275.69,1925143.27,562271.16
+North America,Canada,Cereal,Online,C,2024-04-08,6489,598.15,3881395.35,848566.53
+North America,Canada,Cereal,Online,C,2024-04-30,8056,25.17,202769.52,94416.32
+Asia,Thailand,Cosmetics,Online,C,2024-04-05,8851,23.74,210122.74,92935.5
+Sub-Saharan Africa,Chad,Household,Offline,L,2024-04-25,923,185.81,171502.63,80448.68
+Sub-Saharan Africa,Kenya,Cosmetics,Online,L,2024-04-08,7006,180.33,1263391.98,716643.74
+Central America and the Caribbean,Panama,Clothes,Online,M,2024-04-08,759,529.19,401655.21,88423.5
+Asia,Vietnam,Snacks,Offline,M,2024-04-20,1974,396.96,783599.04,401847.18
+Middle East and North Africa,Libya,Cosmetics,Offline,C,2024-04-13,2783,675.48,1879860.84,1046630.64
+Central America and the Caribbean,Belize,Clothes,Online,L,2024-04-28,1345,416.51,560205.95,150007.85
+Central America and the Caribbean,Panama,Cereal,Offline,H,2024-04-17,9372,548.93,5144571.96,2372240.64
+Central America and the Caribbean,Grenada,Baby Food,Offline,L,2024-04-21,307,595.46,182806.22,49552.87
+Sub-Saharan Africa,Chad,Snacks,Offline,C,2024-04-14,7235,127.42,921883.7,360737.1
+Central America and the Caribbean,Grenada,Baby Food,Offline,C,2024-04-08,5380,596.94,3211537.2,859777.8
+Sub-Saharan Africa,Nigeria,Office Supplies,Offline,M,2024-04-12,5611,24.95,139994.45,36359.28
+North America,Canada,Snacks,Online,M,2024-04-03,4681,616.82,2887334.42,922578.29
+Asia,Vietnam,Household,Offline,C,2024-04-26,8104,390.85,3167448.4,1596001.76
+Europe,Germany,Snacks,Offline,C,2024-04-18,4920,159.01,782329.2,252937.2
+Middle East and North Africa,Egypt,Fruits,Offline,L,2024-04-10,7071,697.66,4933153.86,1873815.0
+North America,USA,Personal Care,Online,M,2024-04-07,2076,506.29,1051058.04,497970.12

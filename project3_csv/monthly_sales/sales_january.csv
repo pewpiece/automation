@@ -1,0 +1,21 @@
+Region,Country,Item Type,Sales Channel,Order Priority,Order Date,Units Sold,Unit Price,Total Revenue,Total Profit
+Central America and the Caribbean,Panama,Office Supplies,Online,H,2024-01-19,509,520.38,264873.42,132976.25
+Sub-Saharan Africa,Rwanda,Cosmetics,Online,C,2024-01-08,588,70.12,41230.56,20903.4
+Sub-Saharan Africa,Kenya,Cereal,Offline,L,2024-01-05,206,532.37,109668.22,58796.52
+Asia,China,Fruits,Offline,H,2024-01-24,1774,69.46,123222.04,69168.26
+Sub-Saharan Africa,Rwanda,Fruits,Online,H,2024-01-02,6301,59.77,376610.77,181783.85
+Central America and the Caribbean,Belize,Baby Food,Offline,L,2024-01-15,4841,689.73,3338982.93,861020.26
+Central America and the Caribbean,Grenada,Snacks,Online,M,2024-01-18,2764,262.28,724941.92,374217.96
+Central America and the Caribbean,Belize,Personal Care,Online,L,2024-01-27,2777,326.27,906051.79,445791.81
+Europe,France,Baby Food,Online,L,2024-01-07,625,564.51,352818.75,155075.0
+Central America and the Caribbean,Cuba,Office Supplies,Offline,M,2024-01-08,6582,619.85,4079852.7,1398806.64
+Central America and the Caribbean,Grenada,Fruits,Online,M,2024-01-17,9677,302.76,2929808.52,1074050.23
+Sub-Saharan Africa,Rwanda,Office Supplies,Offline,H,2024-01-13,871,603.47,525622.37,283240.49
+Sub-Saharan Africa,Nigeria,Cosmetics,Online,L,2024-01-25,8769,179.73,1576052.37,596905.83
+Central America and the Caribbean,Grenada,Cosmetics,Offline,M,2024-01-17,1927,208.98,402704.46,216151.59
+Europe,Denmark,Office Supplies,Online,L,2024-01-16,8417,428.23,3604411.91,1942306.92
+Europe,Germany,Snacks,Online,H,2024-01-08,6047,615.71,3723198.37,995336.2
+Middle East and North Africa,Libya,Personal Care,Online,M,2024-01-22,1503,513.68,772061.04,211231.62
+Sub-Saharan Africa,Chad,Clothes,Online,L,2024-01-13,4442,371.73,1651224.66,590075.28
+Central America and the Caribbean,Grenada,Clothes,Online,H,2024-01-11,7277,630.23,4586183.71,1923456.64
+Europe,Armenia,Baby Food,Online,M,2024-01-03,9175,164.93,1513232.75,774645.25

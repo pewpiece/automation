@@ -1,0 +1,21 @@
+Region,Country,Item Type,Sales Channel,Order Priority,Order Date,Units Sold,Unit Price,Total Revenue,Total Profit
+Asia,Japan,Cereal,Online,M,2024-03-28,5894,547.18,3225078.92,794511.2
+Asia,India,Fruits,Offline,M,2024-03-09,6855,22.23,152386.65,46545.45
+Asia,Japan,Clothes,Online,C,2024-03-12,6367,611.16,3891255.72,998345.6
+North America,USA,Fruits,Offline,H,2024-03-31,3752,21.45,80480.4,42059.92
+North America,Canada,Personal Care,Offline,H,2024-03-04,8446,282.78,2388359.88,495695.74
+North America,USA,Baby Food,Offline,L,2024-03-24,9612,673.96,6478103.52,3198969.72
+North America,Canada,Clothes,Offline,H,2024-03-23,8479,85.37,723852.23,173904.29
+Sub-Saharan Africa,Rwanda,Clothes,Offline,C,2024-03-03,8618,648.27,5586790.86,2148812.12
+Central America and the Caribbean,Grenada,Snacks,Offline,C,2024-03-11,5243,466.05,2443500.15,1344305.2
+Sub-Saharan Africa,Kenya,Cereal,Online,L,2024-03-13,9183,93.47,858335.01,370625.88
+Middle East and North Africa,Libya,Fruits,Offline,C,2024-03-15,5078,204.41,1037993.98,444325.0
+Central America and the Caribbean,Belize,Office Supplies,Online,L,2024-03-17,8475,333.86,2829463.5,677745.75
+Central America and the Caribbean,Grenada,Snacks,Online,M,2024-03-05,1630,573.8,935294.0,280164.4
+Europe,Germany,Baby Food,Offline,C,2024-03-29,4111,688.84,2831821.24,1006701.68
+Central America and the Caribbean,Belize,Cosmetics,Online,C,2024-03-08,6391,348.59,2227838.69,1119255.83
+Asia,Thailand,Baby Food,Offline,M,2024-03-26,7711,39.9,307668.9,153911.56
+Sub-Saharan Africa,Kenya,Personal Care,Offline,C,2024-03-29,7351,430.79,3166737.29,988930.03
+Asia,Vietnam,Snacks,Offline,M,2024-03-09,7473,185.14,1383551.22,693270.21
+Sub-Saharan Africa,Rwanda,Personal Care,Online,M,2024-03-05,4781,167.97,803064.57,373969.82
+Asia,Vietnam,Cereal,Offline,C,2024-03-14,2603,495.96,1290983.88,741412.49

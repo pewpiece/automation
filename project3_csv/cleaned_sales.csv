@@ -1,0 +1,126 @@
+region,country,item_type,sales_channel,order_priority,order_date,units_sold,unit_price,total_revenue,total_profit,profit_margin_%
+Europe,France,Cosmetics,Offline,C,2024-04-01,6983.0,275.69,1925143.27,562271.16,29.21
+North America,Canada,Cereal,Online,C,2024-04-08,6489.0,598.15,3881395.35,848566.53,21.86
+North America,Canada,Cereal,Online,C,2024-04-30,8056.0,25.17,202769.52,94416.32,46.56
+Asia,Thailand,Cosmetics,Online,C,2024-04-05,8851.0,23.74,210122.74,92935.5,44.23
+Sub-Saharan Africa,Chad,Unknown,Offline,L,2024-04-25,923.0,185.81,171502.63,80448.68,46.91
+Sub-Saharan Africa,Kenya,Cosmetics,Online,L,2024-04-08,7006.0,180.33,1263391.98,716643.74,56.72
+Central America And The Caribbean,Panama,Clothes,Online,M,2024-04-08,759.0,529.19,401655.21,88423.5,22.01
+Asia,Vietnam,Snacks,Offline,M,2024-04-20,1974.0,396.96,783599.04,401847.18,51.28
+Middle East And North Africa,Libya,Cosmetics,Offline,C,2024-04-13,2783.0,675.48,1879860.84,1046630.64,55.68
+Central America And The Caribbean,Belize,Clothes,Online,L,2024-04-28,1345.0,309.49,560205.95,150007.85,26.78
+Central America And The Caribbean,Panama,Cereal,Offline,H,2024-04-17,9372.0,548.93,5144571.96,2372240.64,46.11
+Central America And The Caribbean,Grenada,Baby Food,Offline,L,2024-04-21,307.0,595.46,182806.22,49552.87,27.11
+Sub-Saharan Africa,Chad,Snacks,Offline,C,2024-04-14,7235.0,309.49,921883.7,360737.1,39.13
+Central America And The Caribbean,Grenada,Baby Food,Offline,C,2024-04-08,5380.0,596.94,3211537.2,859777.8,26.77
+Sub-Saharan Africa,Nigeria,Office Supplies,Offline,M,2024-04-12,5611.0,24.95,139994.45,36359.28,25.97
+North America,Canada,Snacks,Online,M,2024-04-03,5818.0,616.82,2887334.42,922578.29,31.95
+Asia,Vietnam,Household,Offline,C,2024-04-26,8104.0,390.85,3167448.4,1596001.76,50.39
+Europe,Germany,Snacks,Offline,C,2024-04-18,5818.0,159.01,782329.2,252937.2,32.33
+Middle East And North Africa,Egypt,Fruits,Offline,L,2024-10-04,7071.0,697.66,4933153.86,1873815.0,37.98
+North America,Usa,Personal Care,Online,M,2024-07-04,2076.0,506.29,1051058.04,497970.12,47.38
+Europe,Denmark,Household,Online,M,2024-02-24,1260.0,362.34,456548.4,223070.4,48.86
+Middle East And North Africa,Morocco,Clothes,Online,H,2024-02-22,4081.0,550.31,2245815.11,622107.64,27.7
+Sub-Saharan Africa,Kenya,Cosmetics,Online,H,2024-02-13,7039.0,290.72,2046378.08,520745.22,25.45
+Central America And The Caribbean,Grenada,Household,Online,C,2024-06-02,1890.0,177.82,336079.8,176072.4,52.39
+North America,Canada,Personal Care,Online,H,2024-02-21,4192.0,612.77,2568731.84,1463762.56,56.98
+Middle East And North Africa,Libya,Office Supplies,Offline,C,2024-02-16,1628.0,648.83,1056295.24,275180.84,26.05
+Asia,Vietnam,Unknown,Offline,C,2024-10-02,1060.0,119.42,126585.2,75843.0,59.91
+Sub-Saharan Africa,Nigeria,Cosmetics,Online,L,2024-02-02,2636.0,136.98,361079.28,185205.36,51.29
+Europe,Armenia,Office Supplies,Online,H,2024-02-28,7911.0,354.48,2804291.28,726071.58,25.89
+Asia,Japan,Cereal,Online,M,2024-02-19,9849.0,52.23,514413.27,131287.17,25.52
+Middle East And North Africa,Libya,Personal Care,Offline,L,2024-07-02,1443.0,296.36,427647.48,156753.09,36.65
+Central America And The Caribbean,Grenada,Snacks,Offline,L,2024-02-25,4010.0,189.6,760296.0,416358.3,54.76
+Europe,Germany,Baby Food,Online,M,2024-02-17,7608.0,436.71,3322489.68,1245277.44,37.48
+North America,Usa,Fruits,Offline,M,2024-02-15,5818.0,617.2,3590869.6,891608.5,24.83
+Middle East And North Africa,Egypt,Snacks,Online,M,2024-09-02,8766.0,10.44,91517.04,24983.1,27.3
+Europe,Germany,Clothes,Offline,M,2024-02-22,9164.0,113.04,1035898.56,504753.12,48.73
+Central America And The Caribbean,Grenada,Cosmetics,Online,C,2024-02-27,8380.0,344.53,2887161.4,686741.0,23.79
+North America,Usa,Snacks,Online,C,2024-02-18,158.0,236.82,37417.56,20492.6,54.77
+Central America And The Caribbean,Cuba,Office Supplies,Online,L,2024-02-19,9289.0,11.72,108867.08,62050.52,57.0
+Middle East And North Africa,Azerbaijan,Cosmetics,Offline,M,2024-02-22,7141.0,93.57,668183.37,318488.6,47.66
+Central America And The Caribbean,Panama,Office Supplies,Online,H,2024-01-19,509.0,520.38,264873.42,132976.25,50.2
+Sub-Saharan Africa,Rwanda,Cosmetics,Online,C,2024-08-01,588.0,70.12,41230.56,20903.4,50.7
+Sub-Saharan Africa,Kenya,Cereal,Offline,L,2024-05-01,206.0,532.37,109668.22,58796.52,53.61
+Asia,China,Fruits,Offline,H,2024-01-24,1774.0,69.46,123222.04,69168.26,56.13
+Sub-Saharan Africa,Rwanda,Unknown,Online,H,2024-02-01,6301.0,59.77,376610.77,181783.85,48.27
+Central America And The Caribbean,Belize,Baby Food,Offline,L,2024-01-15,4841.0,689.73,3338982.93,861020.26,25.79
+Central America And The Caribbean,Grenada,Snacks,Online,M,2024-01-18,2764.0,262.28,724941.92,374217.96,51.62
+Central America And The Caribbean,Belize,Unknown,Online,L,2024-01-27,2777.0,326.27,906051.79,445791.81,49.2
+Europe,France,Baby Food,Online,L,2024-07-01,5818.0,564.51,352818.75,155075.0,43.95
+Central America And The Caribbean,Cuba,Office Supplies,Offline,M,2024-08-01,5818.0,619.85,4079852.7,1398806.64,34.29
+Central America And The Caribbean,Grenada,Fruits,Online,M,2024-01-17,9677.0,302.76,2929808.52,1074050.23,36.66
+Sub-Saharan Africa,Rwanda,Office Supplies,Offline,H,2024-01-13,871.0,603.47,525622.37,283240.49,53.89
+Sub-Saharan Africa,Nigeria,Cosmetics,Online,L,2024-01-25,8769.0,179.73,1576052.37,596905.83,37.87
+Central America And The Caribbean,Grenada,Cosmetics,Offline,M,2024-01-17,1927.0,208.98,402704.46,216151.59,53.67
+Europe,Denmark,Office Supplies,Online,L,2024-01-16,8417.0,428.23,3604411.91,1942306.92,53.89
+Europe,Germany,Unknown,Online,H,2024-08-01,6047.0,615.71,3723198.37,995336.2,26.73
+Middle East And North Africa,Libya,Personal Care,Online,M,2024-01-22,1503.0,513.68,772061.04,211231.62,27.36
+Sub-Saharan Africa,Chad,Clothes,Online,L,2024-01-13,4442.0,371.73,1651224.66,590075.28,35.74
+Central America And The Caribbean,Grenada,Clothes,Online,H,2024-11-01,7277.0,630.23,4586183.71,1923456.64,41.94
+Europe,Armenia,Baby Food,Online,M,2024-03-01,9175.0,164.93,1513232.75,774645.25,51.19
+Europe,France,Snacks,Offline,C,2024-06-16,8265.0,309.49,5398615.35,2608929.9,48.33
+Asia,Vietnam,Personal Care,Online,H,2024-09-06,9131.0,105.53,963594.43,504670.37,52.37
+Sub-Saharan Africa,Kenya,Snacks,Offline,M,2024-06-15,8418.0,190.69,1605228.42,961503.96,59.9
+Middle East And North Africa,Morocco,Cereal,Offline,L,2024-06-28,5754.0,309.49,1358231.7,400478.4,29.49
+Asia,India,Unknown,Online,L,2024-06-24,9468.0,271.16,2567342.88,661339.8,25.76
+Sub-Saharan Africa,Nigeria,Office Supplies,Offline,H,2024-05-06,6425.0,691.95,4445778.75,1258336.25,28.3
+Middle East And North Africa,Egypt,Personal Care,Offline,H,2024-06-24,1744.0,612.56,1068304.64,452829.6,42.39
+Asia,Vietnam,Snacks,Offline,C,2024-06-21,2629.0,57.01,149879.29,43063.02,28.73
+Europe,Denmark,Household,Online,H,2024-08-06,8842.0,269.11,2379470.62,1126293.96,47.33
+Central America And The Caribbean,Grenada,Baby Food,Online,C,2024-06-06,3827.0,524.0,2005348.0,855104.88,42.64
+Central America And The Caribbean,Grenada,Snacks,Offline,L,2024-06-14,574.0,36.96,21215.04,5975.34,28.17
+Asia,India,Office Supplies,Online,M,2024-03-06,8802.0,291.38,2564726.76,839358.72,32.73
+Middle East And North Africa,Morocco,Clothes,Offline,L,2024-06-15,4045.0,350.88,1419309.6,520510.6,36.67
+North America,Mexico,Snacks,Online,H,2024-06-15,253.0,629.74,159324.22,65944.45,41.39
+North America,Mexico,Snacks,Offline,L,2024-07-06,5001.0,449.06,2245749.06,966293.22,43.03
+Sub-Saharan Africa,Nigeria,Snacks,Offline,H,2024-06-27,1847.0,169.86,313731.42,116471.82,37.12
+Central America And The Caribbean,Cuba,Cosmetics,Offline,L,2024-06-25,4597.0,10.63,48866.11,12411.9,25.4
+Asia,Thailand,Snacks,Online,H,2024-06-29,5872.0,157.21,923137.12,483676.64,52.39
+Central America And The Caribbean,Panama,Fruits,Online,H,2024-06-30,5161.0,553.08,2854445.88,1674589.67,58.67
+North America,Canada,Personal Care,Offline,L,2024-06-27,6907.0,127.07,877672.49,480174.64,54.71
+Asia,Japan,Cereal,Online,M,2024-03-28,5818.0,547.18,3225078.92,794511.2,24.64
+Asia,India,Fruits,Offline,M,2024-09-03,6855.0,22.23,152386.65,46545.45,30.54
+Asia,Japan,Clothes,Online,C,2024-12-03,6367.0,611.16,3891255.72,998345.6,25.66
+North America,Usa,Fruits,Offline,H,2024-03-31,3752.0,309.49,80480.4,42059.92,52.26
+North America,Canada,Personal Care,Offline,H,2024-04-03,8446.0,282.78,2388359.88,495695.74,20.75
+North America,Usa,Baby Food,Offline,L,2024-03-24,9612.0,673.96,6478103.52,3198969.72,49.38
+North America,Canada,Clothes,Offline,H,2024-03-23,8479.0,85.37,723852.23,173904.29,24.02
+Sub-Saharan Africa,Rwanda,Clothes,Offline,C,2024-03-03,8618.0,648.27,5586790.86,2148812.12,38.46
+Central America And The Caribbean,Grenada,Snacks,Offline,C,2024-11-03,5818.0,466.05,2443500.15,1344305.2,55.02
+Sub-Saharan Africa,Kenya,Cereal,Online,L,2024-03-13,9183.0,93.47,858335.01,370625.88,43.18
+Middle East And North Africa,Libya,Fruits,Offline,C,2024-03-15,5078.0,204.41,1037993.98,444325.0,42.81
+Central America And The Caribbean,Belize,Office Supplies,Online,L,2024-03-17,8475.0,333.86,2829463.5,677745.75,23.95
+Central America And The Caribbean,Grenada,Snacks,Online,M,2024-05-03,1630.0,573.8,935294.0,280164.4,29.95
+Europe,Germany,Baby Food,Offline,C,2024-03-29,4111.0,309.49,2831821.24,1006701.68,35.55
+Central America And The Caribbean,Belize,Cosmetics,Online,C,2024-08-03,6391.0,348.59,2227838.69,1119255.83,50.24
+Asia,Thailand,Baby Food,Offline,M,2024-03-26,7711.0,39.9,307668.9,153911.56,50.03
+Sub-Saharan Africa,Kenya,Personal Care,Offline,C,2024-03-29,7351.0,430.79,3166737.29,988930.03,31.23
+Asia,Vietnam,Snacks,Offline,M,2024-09-03,7473.0,185.14,1383551.22,693270.21,50.11
+Sub-Saharan Africa,Rwanda,Personal Care,Online,M,2024-05-03,4781.0,167.97,803064.57,373969.82,46.57
+Asia,Vietnam,Cereal,Offline,C,2024-03-14,2603.0,495.96,1290983.88,741412.49,57.43
+Central America And The Caribbean,Cuba,Personal Care,Offline,H,2024-05-27,4630.0,508.59,2354771.7,493002.4,20.94
+Asia,China,Personal Care,Online,L,2024-02-05,3827.0,255.81,978984.87,469037.12,47.91
+Europe,Armenia,Household,Online,H,2024-05-19,4886.0,489.71,2392723.06,1314773.74,54.95
+North America,Canada,Cosmetics,Offline,C,2024-04-05,7943.0,311.13,2471305.59,1300507.39,52.62
+Europe,Russia,Cosmetics,Online,M,2024-05-26,8156.0,56.49,460732.44,160428.52,34.82
+Middle East And North Africa,Egypt,Cereal,Online,C,2024-05-15,1495.0,695.77,1040176.15,574827.5,55.26
+Sub-Saharan Africa,Kenya,Cosmetics,Online,M,2024-05-21,9742.0,693.07,6751887.94,3226355.56,47.78
+Asia,China,Baby Food,Online,H,2024-05-14,1430.0,114.15,163234.5,86586.5,53.04
+Sub-Saharan Africa,Nigeria,Snacks,Offline,H,2024-05-22,4871.0,27.68,134829.28,65368.82,48.48
+Asia,China,Cereal,Online,M,2024-05-21,9763.0,464.52,4535108.76,1027360.49,22.65
+Asia,China,Snacks,Offline,C,2024-04-05,2430.0,54.63,132750.9,70834.5,53.36
+Sub-Saharan Africa,Kenya,Household,Offline,H,2024-05-20,6694.0,660.16,4419111.04,1766814.36,39.98
+Europe,Russia,Clothes,Online,L,2024-05-19,5380.0,424.58,2284240.4,1346936.8,58.97
+Europe,France,Snacks,Online,C,2024-05-21,7808.0,365.68,2855229.44,1208053.76,42.31
+Sub-Saharan Africa,Rwanda,Baby Food,Online,L,2024-05-14,7800.0,246.83,1925274.0,898482.0,46.67
+Central America And The Caribbean,Cuba,Personal Care,Online,C,2024-03-05,4822.0,465.5,2244641.0,987256.28,43.98
+North America,Canada,Personal Care,Online,C,2024-05-14,5396.0,85.57,461735.72,134360.4,29.1
+Europe,France,Household,Online,M,2024-09-05,8594.0,256.44,2203845.36,655464.38,29.74
+Middle East And North Africa,Azerbaijan,Baby Food,Online,M,2024-05-23,4819.0,309.49,1491432.31,478285.75,32.07
+Asia,China,Clothes,Online,C,2024-05-31,9124.0,14.5,132298.0,57754.92,43.66
+Europe,France,Cosmetics,Offline,C,2024-01-04,6983.0,275.69,1925143.27,562271.16,29.21
+North America,Canada,Cereal,Online,C,2024-08-04,6489.0,598.15,3881395.35,848566.53,21.86
+North America,Canada,Cereal,Online,C,2024-04-30,8056.0,25.17,202769.52,94416.32,46.56
+Asia,Thailand,Cosmetics,Online,C,2024-05-04,8851.0,23.74,210122.74,92935.5,44.23
+Sub-Saharan Africa,Chad,Unknown,Offline,L,2024-04-25,923.0,185.81,171502.63,80448.68,46.91

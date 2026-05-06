@@ -1,0 +1,21 @@
+Region,Country,Item Type,Sales Channel,Order Priority,Order Date,Units Sold,Unit Price,Total Revenue,Total Profit
+Central America and the Caribbean,Cuba,Personal Care,Offline,H,2024-05-27,4630,508.59,2354771.7,493002.4
+Asia,China,Personal Care,Online,L,2024-05-02,3827,255.81,978984.87,469037.12
+Europe,Armenia,Household,Online,H,2024-05-19,4886,489.71,2392723.06,1314773.74
+North America,Canada,Cosmetics,Offline,C,2024-05-04,7943,311.13,2471305.59,1300507.39
+Europe,Russia,Cosmetics,Online,M,2024-05-26,8156,56.49,460732.44,160428.52
+Middle East and North Africa,Egypt,Cereal,Online,C,2024-05-15,1495,695.77,1040176.15,574827.5
+Sub-Saharan Africa,Kenya,Cosmetics,Online,M,2024-05-21,9742,693.07,6751887.94,3226355.56
+Asia,China,Baby Food,Online,H,2024-05-14,1430,114.15,163234.5,86586.5
+Sub-Saharan Africa,Nigeria,Snacks,Offline,H,2024-05-22,4871,27.68,134829.28,65368.82
+Asia,China,Cereal,Online,M,2024-05-21,9763,464.52,4535108.76,1027360.49
+Asia,China,Snacks,Offline,C,2024-05-04,2430,54.63,132750.9,70834.5
+Sub-Saharan Africa,Kenya,Household,Offline,H,2024-05-20,6694,660.16,4419111.04,1766814.36
+Europe,Russia,Clothes,Online,L,2024-05-19,5380,424.58,2284240.4,1346936.8
+Europe,France,Snacks,Online,C,2024-05-21,7808,365.68,2855229.44,1208053.76
+Sub-Saharan Africa,Rwanda,Baby Food,Online,L,2024-05-14,7800,246.83,1925274.0,898482.0
+Central America and the Caribbean,Cuba,Personal Care,Online,C,2024-05-03,4822,465.5,2244641.0,987256.28
+North America,Canada,Personal Care,Online,C,2024-05-14,5396,85.57,461735.72,134360.4
+Europe,France,Household,Online,M,2024-05-09,8594,256.44,2203845.36,655464.38
+Middle East and North Africa,Azerbaijan,Baby Food,Online,M,2024-05-23,4819,309.49,1491432.31,478285.75
+Asia,China,Clothes,Online,C,2024-05-31,9124,14.5,132298.0,57754.92
